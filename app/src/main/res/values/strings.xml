@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News subscription</string>
+    <string name="subscribe_button_text">Subscribe</string>
+    <string name="your_name_hint">Your name</string>
+    <string name="email_address_hint">Email address</string>
+    <string name="type_email">You have to type an Email address</string>
+    <string name="invalid_email">"The Email you typed is invalid"</string>
+    <string name="type_name">You have to type a name</string>
+    <string name="already_subscribed">This Email is already subscribed to news</string>
+    <string name="subscribed_successfully">Subscribed %s to news</string>
+</resources>
