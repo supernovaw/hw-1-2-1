@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">News subscription</string>
     <string name="subscribe_button_text">Subscribe</string>
+    <string name="clear_button_text">Clear</string>
     <string name="your_name_hint">Your name</string>
     <string name="email_address_hint">Email address</string>
     <string name="type_email">You have to type an Email address</string>
